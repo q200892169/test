@@ -5,5 +5,10 @@ public class Test{
         System.out.println("hi");
         System.out.println("TEST");
         System.out.println("dfsf");
+        // 这里就是主干
+        for (int i = 0; i < 10; i++) {
+            System.out.println();
+        }
+
     }
 }
